@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pearl_Dental_Care", "Pearl_Dental_Care\Pearl_Dental_Care.csproj", "{0BDA040E-F680-4B0E-AB05-F967F688213A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{3D7FCDB3-336B-4B60-906F-ED89F7DC5E6C}"
+	ProjectSection(SolutionItems) = preProject
+		Images\card.png = Images\card.png
+		Images\dollars.png = Images\dollars.png
+		Images\google-pay.png = Images\google-pay.png
+		Images\visa.png = Images\visa.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDA040E-F680-4B0E-AB05-F967F688213A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDA040E-F680-4B0E-AB05-F967F688213A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDA040E-F680-4B0E-AB05-F967F688213A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDA040E-F680-4B0E-AB05-F967F688213A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1424BBF0-35D0-4E05-A879-BEC174A1FBF3}
+	EndGlobalSection
+EndGlobal
